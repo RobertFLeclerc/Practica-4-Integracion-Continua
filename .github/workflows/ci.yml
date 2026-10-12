@@ -21,5 +21,5 @@ jobs:
         run: |
           curl --fail-with-body \
             -H "Title: Integracion Continua" \
-            -d "Nueva actualizacion en GitHub - Practica 4 ITLA" \
+            -d "Robert Leclerc - Practica 4 de Integracion Continua completada correctamente." \
             https://ntfy.sh/devops-itla
